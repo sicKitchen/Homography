@@ -1,7 +1,8 @@
 # Homography
 
 Name:		Spencer Kitchen
-Email:		spencer.kitchen@wsu.edu
+
+Email:		sckitchen.dev@gmail.com
 
 SUBMITTED ARCHIVE:
 	README.txt
